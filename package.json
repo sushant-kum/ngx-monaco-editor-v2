@@ -1,5 +1,5 @@
 {
-  "name": "ngx-monaco-editor-v2",
+  "name": "@sushant-kum/ngx-monaco-editor-v2",
   "version": "20.0.0",
   "description": "Monaco Code Editor For Angular",
   "keywords": [
@@ -27,13 +27,14 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/miki995/ngx-monaco-editor-v2.git"
+    "url": "https://github.com/sushant-kum/ngx-monaco-editor-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/miki995/ngx-monaco-editor-v2/issues"
+    "url": "https://github.com/sushant-kum/ngx-monaco-editor-v2/issues"
   },
-  "author": "Miroslav Maksimovic",
+  "author": "Sushant Kumar",
   "contributors": [
+    "Sushant Kumar <sushant.kum96@gmail.com>",
     "Atul Kumar <atulaggarwal4288@gmail.com>",
     "Miroslav Maksimovic <miroslavmaksimovic95@gmail.com>",
     "Thomas-Louis Simard <thomas.louis.simard@gmail.com>"
@@ -53,10 +54,10 @@
     "zone.js": "^0.15.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "20.1.1",
-    "@angular/cli": "20.1.1",
-    "@angular/compiler-cli": "20.1.2",
-    "@angular/language-service": "20.1.2",
+    "@angular-devkit/build-angular": "^20.1.1",
+    "@angular/cli": "^20.1.1",
+    "@angular/compiler-cli": "^20.1.2",
+    "@angular/language-service": "^20.1.2",
     "@types/jasmine": "^5.1.8",
     "@types/node": "^24.0.3",
     "jasmine-core": "^5.8.0",
